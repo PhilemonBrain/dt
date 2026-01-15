@@ -71,10 +71,10 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-foreground/60">
               <li>
                 <a href="mailto:hello@donatello.io" className="hover:text-foreground transition">
-                  hello@donatello.io
+                  info@donatello.io
                 </a>
               </li>
-              <li className="text-foreground/40">+1 (555) 123-4567</li>
+              <li className="text-foreground/40">+234 (706) 950-1730</li>
             </ul>
           </div>
         </div>
