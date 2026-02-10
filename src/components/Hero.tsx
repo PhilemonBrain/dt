@@ -128,10 +128,10 @@ const Hero = () => {
           className="flex justify-center gap-4 md:gap-8 mb-10"
         >
           {[
-            { icon: Leaf, color: 'farm', label: 'Farm' },
             { icon: Radio, color: 'telecoms', label: 'Telecoms' },
-            { icon: Zap, color: 'energy', label: 'Energy' },
             { icon: Users, color: 'clo', label: 'CLO' },
+            { icon: Zap, color: 'energy', label: 'Energy' },
+            { icon: Leaf, color: 'farm', label: 'Farm' },
           ].map((item, index) => (
             <motion.div
               key={item.label}
