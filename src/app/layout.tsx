@@ -3,12 +3,12 @@ import "./globals.css";
 import { Providers } from "@/components/Providers";
 
 export const metadata: Metadata = {
-  title: "Lovable App",
-  description: "Lovable Generated Project",
-  authors: [{ name: "Lovable" }],
+  title: "Donatello",
+  description: "Donatello Afriq Limited",
+  authors: [{ name: "Donatello" }],
   openGraph: {
-    title: "Lovable App",
-    description: "Lovable Generated Project",
+    title: "Donatello",
+    description: "Donatello Afriq Limited",
     type: "website",
   },
 };
